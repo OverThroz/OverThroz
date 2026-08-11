@@ -9,17 +9,17 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-Etudiant Ingénieur en Informatique, passionné par la <b>cybersécurité</b>, le <b>développement mobile</b> et l'<b>IA / Data</b>.<br/>
-J'aime comprendre comment les systèmes fonctionnent en profondeur — et comment les casser proprement pour mieux les protéger.<br/>
-Actuellement en train de construire des projets persos pour explorer ces trois domaines en parallèle de mes études.
+Computer Engineering student, passionate about <b>cybersecurity</b>, <b>mobile development</b>, and <b>AI / Data</b>.<br/>
+I like understanding how systems work at a deep level — and how to break them properly in order to protect them better.<br/>
+Currently building personal projects to explore all three fields alongside my studies.
 </p>
 
 <div align="center">
 
-🔎 &nbsp;Actuellement focus sur des projets liés à la **cybersécurité**
-🤖 &nbsp;Exploration de l'**IA/Data** sur mon temps libre
-📱 &nbsp;Développement d'**applications mobiles**
-🎓 &nbsp;Étudiant Ingénieur en Informatique
+🔎 &nbsp;Currently focused on **cybersecurity** projects
+🤖 &nbsp;Exploring **AI/Data** in my free time
+📱 &nbsp;Building **mobile applications**
+🎓 &nbsp;Computer Engineering Student
 
 </div>
 
@@ -32,22 +32,22 @@ Actuellement en train de construire des projets persos pour explorer ces trois d
 <table>
 <tr>
 <td><b>Status</b></td>
-<td>Etudiant Ingénieur Informatique</td>
+<td>Computer Engineering Student</td>
 </tr>
 <tr>
-<td><b>Domaines d'intérêt</b></td>
-<td>Cybersécurité · IA / Data · Dev Mobile</td>
+<td><b>Areas of Interest</b></td>
+<td>Cybersecurity · AI / Data · Mobile Dev</td>
 </tr>
 <tr>
-<td><b>En ce moment</b></td>
+<td><b>Currently Working On</b></td>
 <td>MAZE_RUNNER · Secret_Project</td>
 </tr>
 <tr>
-<td><b>Objectif</b></td>
-<td>Devenir ingénieur spécialisé en sécurité des systèmes</td>
+<td><b>Goal</b></td>
+<td>Become an engineer specialized in systems security</td>
 </tr>
 <tr>
-<td><b>Fun fact</b></td>
+<td><b>Fun Fact</b></td>
 <td>Ships code faster than coffee gets cold ☕</td>
 </tr>
 </table>
@@ -60,20 +60,20 @@ Actuellement en train de construire des projets persos pour explorer ces trois d
 
 <div align="center">
 
-**Langages**
+**Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,c,mysql&theme=dark" />
 <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
 
 <br/><br/>
 
-**Outils & Environnement**
+**Tools & Environment**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 <br/><br/>
 
-**En exploration**
+**Currently Exploring**
 <br/>
 <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
 <img src="https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark" />
