@@ -1,17 +1,6 @@
-<img src="https://raw.githubusercontent.com/OverThroz/OverThroz/main/profile-scan.svg" width="100%" />
-
-
 <div align="center">
 
-```
-$ whoami
-> OverThroz
-
-$ status
-> online — building & shipping
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome+to+my+terminal;Full-Stack+Developer;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/OverThroz/OverThroz/main/profile-scan.svg" width="100%" />
 
 </div>
 
@@ -20,11 +9,10 @@ $ status
 ### `$ cat about.md`
 
 ```yaml
-name: OverThroz
-role: Developer
-focus: [ "Web Dev", "Automation", "Open Source" ]
-currently: "Building cool stuff 🚀"
-fun_fact: "Ships code faster than coffee gets cold"
+status: "Etudiant Ingenieur Informatique"
+currently_working_on: [ "MAZE_RUNNER", "Secret_Project" ]
+learning: [ "Systems programming", "Mobile development" ]
+fun_fact: "Ships code faster than coffee gets cold ☕"
 ```
 
 ---
@@ -33,7 +21,9 @@ fun_fact: "Ships code faster than coffee gets cold"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,androidstudio,git,github,vscode,linux&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
 
 </div>
 
@@ -43,14 +33,8 @@ fun_fact: "Ships code faster than coffee gets cold"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OverThroz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OverThroz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverThroz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=OverThroz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=OverThroz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="48%" />
 
 </div>
 
