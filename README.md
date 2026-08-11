@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/OverThroz/OverThroz/main/profile-scan.svg" width="100%" />
@@ -110,13 +109,13 @@ Actuellement en train de construire des projets persos pour explorer ces trois d
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maxime-sabourin-bourgeois-b01982349/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-4A7FC2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:maxime.sabourinbourgeois@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+<img src="https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 <a href="https://github.com/OverThroz">
-<img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-C25A5A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -133,5 +132,3 @@ $ echo "Thanks for stopping by"
 <img src="https://komarev.com/ghpvc/?username=OverThroz&label=Profile+Views&color=00FF41&style=flat" />
 
 </div>
-EOF
-echo "done"
