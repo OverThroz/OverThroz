@@ -44,7 +44,7 @@ Currently building personal projects to explore all three fields alongside my st
 </tr>
 <tr>
 <td><b>Goal</b></td>
-<td>Become an engineer specialized in systems security</td>
+<td>Become Cybersecurity or ML Engineer</td>
 </tr>
 <tr>
 <td><b>Fun Fact</b></td>
